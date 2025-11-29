@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "*.agent.md": "markdown",
+    "*.tf": "terraform"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": true,
+    "yaml": true,
+    "json": true,
+    "terraform": true
+  }
+}
